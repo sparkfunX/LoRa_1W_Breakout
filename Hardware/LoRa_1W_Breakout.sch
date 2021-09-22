@@ -8533,11 +8533,11 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <attribute name="NAME" x="163.576" y="124.46" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="166.624" y="124.46" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="GND33" gate="1" x="157.48" y="116.84" smashed="yes">
-<attribute name="VALUE" x="157.48" y="116.586" size="1.778" layer="96" align="top-center"/>
+<instance part="GND33" gate="1" x="157.48" y="114.3" smashed="yes">
+<attribute name="VALUE" x="157.48" y="114.046" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND34" gate="1" x="165.1" y="116.84" smashed="yes">
-<attribute name="VALUE" x="165.1" y="116.586" size="1.778" layer="96" align="top-center"/>
+<instance part="GND34" gate="1" x="165.1" y="114.3" smashed="yes">
+<attribute name="VALUE" x="165.1" y="114.046" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="SUPPLY2" gate="G$1" x="101.6" y="119.38" smashed="yes">
 <attribute name="VALUE" x="101.6" y="122.174" size="1.778" layer="96" align="bottom-center"/>
@@ -8645,10 +8645,12 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <segment>
 <pinref part="R18" gate="G$1" pin="1"/>
 <pinref part="GND33" gate="1" pin="GND"/>
+<wire x1="157.48" y1="116.84" x2="157.48" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R19" gate="G$1" pin="1"/>
 <pinref part="GND34" gate="1" pin="GND"/>
+<wire x1="165.1" y1="116.84" x2="165.1" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C8" gate="G$1" pin="-"/>

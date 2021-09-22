@@ -17634,20 +17634,20 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <sheets>
 <sheet>
 <plain>
-<text x="421.894" y="8.636" size="2.54" layer="94">x01</text>
+<text x="241.554" y="8.636" size="2.54" layer="94">x01</text>
 <text x="124.46" y="170.18" size="2.54" layer="94" font="vector" align="center">LoRa Radio 30dBm</text>
 </plain>
 <instances>
-<instance part="FD1" gate="G$1" x="411.48" y="27.94" smashed="yes"/>
-<instance part="FD2" gate="G$1" x="414.02" y="27.94" smashed="yes"/>
-<instance part="FD3" gate="G$1" x="414.02" y="25.4" smashed="yes"/>
-<instance part="FD4" gate="G$1" x="411.48" y="25.4" smashed="yes"/>
-<instance part="LOGO1" gate="G$1" x="340.36" y="40.64" smashed="yes"/>
-<instance part="H1" gate="G$1" x="419.1" y="27.94" smashed="yes"/>
-<instance part="H2" gate="G$1" x="421.64" y="27.94" smashed="yes"/>
-<instance part="H3" gate="G$1" x="421.64" y="25.4" smashed="yes"/>
-<instance part="H4" gate="G$1" x="419.1" y="25.4" smashed="yes"/>
-<instance part="LOGO3" gate="G$1" x="411.48" y="45.72" smashed="yes"/>
+<instance part="FD1" gate="G$1" x="231.14" y="27.94" smashed="yes"/>
+<instance part="FD2" gate="G$1" x="233.68" y="27.94" smashed="yes"/>
+<instance part="FD3" gate="G$1" x="233.68" y="25.4" smashed="yes"/>
+<instance part="FD4" gate="G$1" x="231.14" y="25.4" smashed="yes"/>
+<instance part="LOGO1" gate="G$1" x="149.86" y="40.64" smashed="yes"/>
+<instance part="H1" gate="G$1" x="238.76" y="27.94" smashed="yes"/>
+<instance part="H2" gate="G$1" x="241.3" y="27.94" smashed="yes"/>
+<instance part="H3" gate="G$1" x="241.3" y="25.4" smashed="yes"/>
+<instance part="H4" gate="G$1" x="238.76" y="25.4" smashed="yes"/>
+<instance part="LOGO3" gate="G$1" x="236.22" y="45.72" smashed="yes"/>
 <instance part="C5" gate="G$1" x="81.28" y="111.76" smashed="yes">
 <attribute name="NAME" x="82.804" y="114.681" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="82.804" y="109.601" size="1.778" layer="96" font="vector"/>
